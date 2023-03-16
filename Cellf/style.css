@@ -424,6 +424,11 @@ a {
     opacity: 60%;
 }
 
+a.accueil {
+    color: none;
+    opacity: 100%;
+}
+
 a:hover {
     text-decoration: underline;
     color: #000000;
